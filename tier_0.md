@@ -2,15 +2,29 @@
 
 - Empty Set,(0)
 - Natural Numbers,(0)(1)
+- *First Transfinite Ordinal = (0)(1)*
+- Transfinite Succession,(0)(1)(0)
 - Transfinite Addition,(0)(1)(0)(1)
 - Transfinite Multiplication,(0)(1)(1)
 - Transfinite Exponentiation,(0)(1)(2)
 - Cantor Normal Form,(0)(1)(2)
+- *Linear Array Ordinal = (0)(1)(2)*
 - Transfinite Tetration,(0)(1,1)
 - Kirby-Paris Hydra,(0)(1,1)
+- *Small Cantor Ordinal = (0)(1,1)*
+- *Medium Cantor Ordinal = (0)(1,1)(2,1)*
+- *Large Cantor Ordinal = (0)(1,1)(2,1)(2,1)*
 - Transfinite Up-Arrow,(0)(1,1)(2,1)(3)
 - φ Function,(0)(1,1)(2,1)(3)
+- *Hyper Cantor Ordinal = (0)(1,1)(2,1)(3)*
+- *Feferman-Schütte Ordinal = (0)(1,1)(2,1)(3,1)*
 - Transfinite Conway's Arrow,(0)(1,1)(2,1)(3,1)(3)
+- *Ackermann Ordinal = (0)(1,1)(2,1)(3,1)(3,1)*
 - Extneded φ Function,(0)(1,1)(2,1)(3,1)(4)
+- *Small Veblen Ordinal = (0)(1,1)(2,1)(3,1)(4)*
+- *Large Veblen Ordinal = (0)(1,1)(2,1)(3,1)(4,1)*
+- *Extended Small Veblen Ordinal = (0)(1,1)(2,1)(3,1)(4,1)(5)*
+- *Extended Large Veblen Ordinal = (0)(1,1)(2,1)(3,1)(4,1)(5,1)*
 - Transfinite Cascading-E,(0)(1,1)(2,2)
+- *Bachmann-Howard Ordinal = (0)(1,1)(2,2)*
 - Transfinite Extensible-E,(0)(1,1)(2,2)(3,2)(4,2)?
