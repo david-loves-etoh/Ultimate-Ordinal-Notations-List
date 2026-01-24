@@ -1,0 +1,16 @@
+# Tier 0:Basic ((0)~(0)(1,1,1))
+
+- Empty Set,(0)
+- Natural Numbers,(0)(1)
+- Transfinite Addition,(0)(1)(0)(1)
+- Transfinite Multiplication,(0)(1)(1)
+- Transfinite Exponentiation,(0)(1)(2)
+- Cantor Normal Form,(0)(1)(2)
+- Transfinite Tetration,(0)(1,1)
+- Kirby-Paris Hydra,(0)(1,1)
+- Transfinite Up-Arrow,(0)(1,1)(2,1)(3)
+- φ Function,(0)(1,1)(2,1)(3)
+- Transfinite Conway's Arrow,(0)(1,1)(2,1)(3,1)(3)
+- Extneded φ Function,(0)(1,1)(2,1)(3,1)(4)
+- Transfinite Cascading-E,(0)(1,1)(2,2)
+- Transfinite Extensible-E,(0)(1,1)(2,2)(3,2)(4,2)?
