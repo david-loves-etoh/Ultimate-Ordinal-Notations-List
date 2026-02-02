@@ -15,13 +15,14 @@
 - *Medium Cantor Ordinal = (0)(1,1)(2,1)*
 - *Large Cantor Ordinal = (0)(1,1)(2,1)(2,1)*
 - Transfinite Up-Arrow,(0)(1,1)(2,1)(3)
-- φ Function,(0)(1,1)(2,1)(3)
 - *Hyper Cantor Ordinal = (0)(1,1)(2,1)(3)*
+- φ Function,(0)(1,1)(2,1)(3,1)
 - *Feferman-Schütte Ordinal = (0)(1,1)(2,1)(3,1)*
 - Transfinite Conway's Arrow,(0)(1,1)(2,1)(3,1)(3)
 - *Ackermann Ordinal = (0)(1,1)(2,1)(3,1)(3,1)*
 - Extneded φ Function,(0)(1,1)(2,1)(3,1)(4)
 - *Small Veblen Ordinal = (0)(1,1)(2,1)(3,1)(4)*
+- *Tree Ordinal = (0)(1,1)(2,1)(3,1)(4)(3)*
 - *Large Veblen Ordinal = (0)(1,1)(2,1)(3,1)(4,1)*
 - *Extended Small Veblen Ordinal = (0)(1,1)(2,1)(3,1)(4,1)(5)*
 - *Extended Large Veblen Ordinal = (0)(1,1)(2,1)(3,1)(4,1)(5,1)*
